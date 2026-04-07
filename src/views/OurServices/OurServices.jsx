@@ -1,5 +1,5 @@
 import "../OurServices/OurServices";
-import serviceImg from "../../assets/Tennis.png";  
+import serviceImg from "../../assets/tennis.png";  
 
 function Services() {
   return (
