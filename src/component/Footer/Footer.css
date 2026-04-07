@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;             /* 🔥 SAME AS NAVBAR */
+  background: #1e293b;
+  color: white;
+  padding: 15px 0;
+
+  display: flex;
+  justify-content: center;
+}
+
+/* content center */
+.footer-content {
+  width: 80%;              /* 🔥 SAME WIDTH */
+  text-align: center;
+}

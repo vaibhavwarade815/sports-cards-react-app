@@ -1,0 +1,42 @@
+.card {
+  width: 220px;
+  height: 260px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  background: white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* 🔥 MAIN FIX */
+.card img {
+  width: 100%;
+  height: 120px;
+  object-fit: cover;   /* image crop karega */
+  border-radius: 8px;
+}
+
+/* text */
+.card h3 {
+  margin: 5px 0;
+}
+
+.card p {
+  margin: 5px 0;
+}
+
+/* button */
+.card button {
+  background: green;
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 5px;
+}

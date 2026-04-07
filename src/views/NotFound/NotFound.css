@@ -1,0 +1,9 @@
+.page {
+  text-align: center;
+  padding: 50px;
+}
+
+.page h1 {
+  color: red;
+  font-size: 40px;
+}

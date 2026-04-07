@@ -1,0 +1,8 @@
+[
+  { "id": 1, "name": "Cricket", "price": "500", "image": "cricket.png" },
+  { "id": 2, "name": "Football", "price": "700", "image": "football.png" },
+  { "id": 3, "name": "Tennis", "price": "400", "image": "tennis.png" },
+  { "id": 4, "name": "Badminton", "price": "300", "image": "badminton.png" },
+  { "id": 5, "name": "Basketball", "price": "600", "image": "basketball.png" },
+  { "id": 6, "name": "Hockey", "price": "450", "image": "hockey.png" }
+]

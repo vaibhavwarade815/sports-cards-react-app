@@ -1,0 +1,22 @@
+.about {
+  text-align: center;
+  padding: 40px 20px;
+}
+
+/* 👇 YE MAIN FIX HAI */
+.about-img {
+  width: 400px;       /* size kam */
+  height: auto;
+  margin: 20px 0;
+}
+
+/* optional styling */
+.about h1 {
+  font-size: 32px;
+}
+
+.about p {
+  max-width: 600px;
+  margin: auto;
+  color: #555;
+}
